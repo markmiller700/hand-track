@@ -1,2 +1,2 @@
 # hand-track
-python script can track your hand movement
+python script can track your hand movement , made by claude.ai
