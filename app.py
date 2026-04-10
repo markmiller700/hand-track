@@ -164,7 +164,7 @@ def main():
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 165, 255), 2,
                 )
 
-            cv2.imshow("Hand Tracking", tracked_frame)
+            cv2.imshow("Hand-Tracking", tracked_frame)
 
             key = cv2.waitKey(1) & 0xFF
             if key == ord("q"):
